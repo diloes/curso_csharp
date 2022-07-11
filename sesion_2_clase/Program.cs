@@ -26,7 +26,7 @@ Console.WriteLine(" - string: " + cadenaDeCaracteres);
 
 // Nombre del usuario
 Console.WriteLine("Introduce tu nombre: ");
-string nombre = Console.ReadLine();
+string? nombre = Console.ReadLine(); // la interrogacion es poque puede ser null si el campo se queda vacio
 
 // Edad del usuario
 Console.WriteLine("Introduce tu edad: ");
@@ -34,7 +34,7 @@ int edad = Convert.ToInt32(Console.ReadLine());
 
 // Ciudad del usuario
 Console.WriteLine("Introduce tu ciudad: ");
-string ciudad = Console.ReadLine();
+string? ciudad = Console.ReadLine(); // la interrogacion es poque puede ser null si el campo se queda vacio
 
 // Presentar mensaje "Hola, NOMBRE. Tienes AÑOS. Vives en CIUDAD.
 Console.WriteLine("Hola, " + nombre + ". Tienes " + edad + " años. Vives en " + ciudad + ".");
@@ -64,4 +64,15 @@ Console.WriteLine("str + 1 = " + str + 1);
 Console.WriteLine("miInt = " + miInt);
 Console.WriteLine("miInt + 1 = " + (miInt + 1));
 
-/* LA PALABRA RESERVADA const */
+/* LA PALABRA RESERVADA const para las constantes */
+
+const int miInt2 = 4; // No podremos nunca reasignarle un valor. 
+// miInt2 = 5; esto nos da un error porque estamos reasignando el valor de la constante.
+
+/* TIPO null */
+
+/* Para definir como tipo null le añadimos un signo de interrogacion al tipo de variable */
+Console.WriteLine("Introduce tu apellido: ");
+string? apellido = Console.ReadLine();
+// Si el usuiario no introduce su nombre la variable quedará como null, no será un string, será un null.
+
