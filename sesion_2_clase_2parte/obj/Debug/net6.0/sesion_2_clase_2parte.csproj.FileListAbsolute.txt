@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/bin/Debug/net6.0/sesion_2_clase_2parte
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/bin/Debug/net6.0/sesion_2_clase_2parte.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/bin/Debug/net6.0/sesion_2_clase_2parte.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/bin/Debug/net6.0/sesion_2_clase_2parte.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/bin/Debug/net6.0/ref/sesion_2_clase_2parte.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/bin/Debug/net6.0/sesion_2_clase_2parte.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/obj/Debug/net6.0/sesion_2_clase_2parte.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/obj/Debug/net6.0/sesion_2_clase_2parte.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/obj/Debug/net6.0/sesion_2_clase_2parte.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/obj/Debug/net6.0/sesion_2_clase_2parte.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/obj/Debug/net6.0/sesion_2_clase_2parte.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/obj/Debug/net6.0/sesion_2_clase_2parte.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/obj/Debug/net6.0/ref/sesion_2_clase_2parte.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/obj/Debug/net6.0/sesion_2_clase_2parte.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_2_clase_2parte/obj/Debug/net6.0/sesion_2_clase_2parte.genruntimeconfig.cache
