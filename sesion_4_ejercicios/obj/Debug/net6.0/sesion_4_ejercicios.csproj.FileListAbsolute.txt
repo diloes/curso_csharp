@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/bin/Debug/net6.0/sesion_4_ejercicios
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/bin/Debug/net6.0/sesion_4_ejercicios.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/bin/Debug/net6.0/sesion_4_ejercicios.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/bin/Debug/net6.0/sesion_4_ejercicios.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/bin/Debug/net6.0/ref/sesion_4_ejercicios.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/bin/Debug/net6.0/sesion_4_ejercicios.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/obj/Debug/net6.0/sesion_4_ejercicios.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/obj/Debug/net6.0/sesion_4_ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/obj/Debug/net6.0/sesion_4_ejercicios.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/obj/Debug/net6.0/sesion_4_ejercicios.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/obj/Debug/net6.0/sesion_4_ejercicios.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/obj/Debug/net6.0/sesion_4_ejercicios.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/obj/Debug/net6.0/ref/sesion_4_ejercicios.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/obj/Debug/net6.0/sesion_4_ejercicios.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_4_ejercicios/obj/Debug/net6.0/sesion_4_ejercicios.genruntimeconfig.cache
