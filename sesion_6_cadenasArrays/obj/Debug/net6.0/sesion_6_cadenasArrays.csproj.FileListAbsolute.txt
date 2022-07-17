@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/bin/Debug/net6.0/sesion_6_cadenasArrays
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/bin/Debug/net6.0/sesion_6_cadenasArrays.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/bin/Debug/net6.0/sesion_6_cadenasArrays.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/bin/Debug/net6.0/sesion_6_cadenasArrays.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/bin/Debug/net6.0/ref/sesion_6_cadenasArrays.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/bin/Debug/net6.0/sesion_6_cadenasArrays.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/obj/Debug/net6.0/sesion_6_cadenasArrays.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/obj/Debug/net6.0/sesion_6_cadenasArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/obj/Debug/net6.0/sesion_6_cadenasArrays.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/obj/Debug/net6.0/sesion_6_cadenasArrays.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/obj/Debug/net6.0/sesion_6_cadenasArrays.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/obj/Debug/net6.0/sesion_6_cadenasArrays.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/obj/Debug/net6.0/ref/sesion_6_cadenasArrays.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/obj/Debug/net6.0/sesion_6_cadenasArrays.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_6_cadenasArrays/obj/Debug/net6.0/sesion_6_cadenasArrays.genruntimeconfig.cache
