@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/bin/Debug/net6.0/sesion_10_linq
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/bin/Debug/net6.0/sesion_10_linq.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/bin/Debug/net6.0/sesion_10_linq.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/bin/Debug/net6.0/sesion_10_linq.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/bin/Debug/net6.0/ref/sesion_10_linq.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/bin/Debug/net6.0/sesion_10_linq.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/obj/Debug/net6.0/sesion_10_linq.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/obj/Debug/net6.0/sesion_10_linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/obj/Debug/net6.0/sesion_10_linq.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/obj/Debug/net6.0/sesion_10_linq.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/obj/Debug/net6.0/sesion_10_linq.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/obj/Debug/net6.0/sesion_10_linq.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/obj/Debug/net6.0/ref/sesion_10_linq.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/obj/Debug/net6.0/sesion_10_linq.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_10_linq/obj/Debug/net6.0/sesion_10_linq.genruntimeconfig.cache
