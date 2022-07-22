@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/bin/Debug/net6.0/sesion_11_herencia
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/bin/Debug/net6.0/sesion_11_herencia.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/bin/Debug/net6.0/sesion_11_herencia.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/bin/Debug/net6.0/sesion_11_herencia.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/bin/Debug/net6.0/ref/sesion_11_herencia.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/bin/Debug/net6.0/sesion_11_herencia.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/obj/Debug/net6.0/sesion_11_herencia.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/obj/Debug/net6.0/sesion_11_herencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/obj/Debug/net6.0/sesion_11_herencia.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/obj/Debug/net6.0/sesion_11_herencia.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/obj/Debug/net6.0/sesion_11_herencia.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/obj/Debug/net6.0/sesion_11_herencia.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/obj/Debug/net6.0/ref/sesion_11_herencia.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/obj/Debug/net6.0/sesion_11_herencia.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_11_herencia/obj/Debug/net6.0/sesion_11_herencia.genruntimeconfig.cache
