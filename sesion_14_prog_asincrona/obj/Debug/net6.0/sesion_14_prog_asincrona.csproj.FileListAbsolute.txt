@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/bin/Debug/net6.0/sesion_14_prog_asincrona
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/bin/Debug/net6.0/sesion_14_prog_asincrona.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/bin/Debug/net6.0/sesion_14_prog_asincrona.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/bin/Debug/net6.0/sesion_14_prog_asincrona.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/bin/Debug/net6.0/ref/sesion_14_prog_asincrona.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/bin/Debug/net6.0/sesion_14_prog_asincrona.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/obj/Debug/net6.0/sesion_14_prog_asincrona.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/obj/Debug/net6.0/sesion_14_prog_asincrona.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/obj/Debug/net6.0/sesion_14_prog_asincrona.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/obj/Debug/net6.0/sesion_14_prog_asincrona.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/obj/Debug/net6.0/sesion_14_prog_asincrona.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/obj/Debug/net6.0/sesion_14_prog_asincrona.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/obj/Debug/net6.0/ref/sesion_14_prog_asincrona.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/obj/Debug/net6.0/sesion_14_prog_asincrona.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_14_prog_asincrona/obj/Debug/net6.0/sesion_14_prog_asincrona.genruntimeconfig.cache
