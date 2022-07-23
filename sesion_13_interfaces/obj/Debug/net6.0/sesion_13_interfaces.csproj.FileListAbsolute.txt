@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/bin/Debug/net6.0/sesion_13_interfaces
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/bin/Debug/net6.0/sesion_13_interfaces.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/bin/Debug/net6.0/sesion_13_interfaces.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/bin/Debug/net6.0/sesion_13_interfaces.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/bin/Debug/net6.0/ref/sesion_13_interfaces.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/bin/Debug/net6.0/sesion_13_interfaces.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/obj/Debug/net6.0/sesion_13_interfaces.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/obj/Debug/net6.0/sesion_13_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/obj/Debug/net6.0/sesion_13_interfaces.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/obj/Debug/net6.0/sesion_13_interfaces.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/obj/Debug/net6.0/sesion_13_interfaces.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/obj/Debug/net6.0/sesion_13_interfaces.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/obj/Debug/net6.0/ref/sesion_13_interfaces.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/obj/Debug/net6.0/sesion_13_interfaces.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_13_interfaces/obj/Debug/net6.0/sesion_13_interfaces.genruntimeconfig.cache
