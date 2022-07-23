@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/bin/Debug/net6.0/sesion_12_colecciones
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/bin/Debug/net6.0/sesion_12_colecciones.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/bin/Debug/net6.0/sesion_12_colecciones.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/bin/Debug/net6.0/sesion_12_colecciones.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/bin/Debug/net6.0/ref/sesion_12_colecciones.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/bin/Debug/net6.0/sesion_12_colecciones.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/obj/Debug/net6.0/sesion_12_colecciones.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/obj/Debug/net6.0/sesion_12_colecciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/obj/Debug/net6.0/sesion_12_colecciones.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/obj/Debug/net6.0/sesion_12_colecciones.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/obj/Debug/net6.0/sesion_12_colecciones.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/obj/Debug/net6.0/sesion_12_colecciones.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/obj/Debug/net6.0/ref/sesion_12_colecciones.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/obj/Debug/net6.0/sesion_12_colecciones.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_12_colecciones/obj/Debug/net6.0/sesion_12_colecciones.genruntimeconfig.cache
