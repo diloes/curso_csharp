@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/bin/Debug/net6.0/sesion_15_multithreading
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/bin/Debug/net6.0/sesion_15_multithreading.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/bin/Debug/net6.0/sesion_15_multithreading.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/bin/Debug/net6.0/sesion_15_multithreading.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/bin/Debug/net6.0/ref/sesion_15_multithreading.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/bin/Debug/net6.0/sesion_15_multithreading.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/obj/Debug/net6.0/sesion_15_multithreading.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/obj/Debug/net6.0/sesion_15_multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/obj/Debug/net6.0/sesion_15_multithreading.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/obj/Debug/net6.0/sesion_15_multithreading.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/obj/Debug/net6.0/sesion_15_multithreading.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/obj/Debug/net6.0/sesion_15_multithreading.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/obj/Debug/net6.0/ref/sesion_15_multithreading.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/obj/Debug/net6.0/sesion_15_multithreading.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_15_multithreading/obj/Debug/net6.0/sesion_15_multithreading.genruntimeconfig.cache
