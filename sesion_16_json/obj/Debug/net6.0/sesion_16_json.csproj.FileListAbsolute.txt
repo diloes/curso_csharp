@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/bin/Debug/net6.0/sesion_16_json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/bin/Debug/net6.0/sesion_16_json.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/bin/Debug/net6.0/sesion_16_json.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/bin/Debug/net6.0/sesion_16_json.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/bin/Debug/net6.0/ref/sesion_16_json.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/bin/Debug/net6.0/sesion_16_json.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/obj/Debug/net6.0/sesion_16_json.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/obj/Debug/net6.0/sesion_16_json.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/obj/Debug/net6.0/sesion_16_json.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/obj/Debug/net6.0/sesion_16_json.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/obj/Debug/net6.0/sesion_16_json.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/obj/Debug/net6.0/sesion_16_json.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/obj/Debug/net6.0/ref/sesion_16_json.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/obj/Debug/net6.0/sesion_16_json.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_16_json/obj/Debug/net6.0/sesion_16_json.genruntimeconfig.cache
