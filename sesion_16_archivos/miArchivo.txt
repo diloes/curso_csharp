@@ -1,0 +1,2 @@
+Estoy escribiendo en miArchivo.txt
+Añadimos otra línea
