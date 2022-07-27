@@ -11,15 +11,17 @@ Si es nuevo cliente
 Bonus: escribe un método para presentar estos datos desde la estructura al hacer Console.WriteLine(...)  
 */
 
+Client cliente = new Client("Diego", 2342345, "calle", "email@email.com", true);
+Console.WriteLine(cliente);
 public struct Client
 {
-  public Client(string name, int phone, string address, string email, bool newClient) 
+  public Client(string name, int phone, string address, string email, bool newClient)
   {
     NAME = name;
     PHONE = phone;
     ADDRESS = address;
     EMAIL = email;
-    NEW_CLIENT = newClient; 
+    NEW_CLIENT = newClient;
   }
 
   public string NAME { get; set; }
