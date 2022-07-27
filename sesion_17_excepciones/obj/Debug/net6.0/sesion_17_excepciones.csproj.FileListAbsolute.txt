@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/bin/Debug/net6.0/sesion_17_excepciones
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/bin/Debug/net6.0/sesion_17_excepciones.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/bin/Debug/net6.0/sesion_17_excepciones.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/bin/Debug/net6.0/sesion_17_excepciones.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/bin/Debug/net6.0/ref/sesion_17_excepciones.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/bin/Debug/net6.0/sesion_17_excepciones.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/obj/Debug/net6.0/sesion_17_excepciones.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/obj/Debug/net6.0/sesion_17_excepciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/obj/Debug/net6.0/sesion_17_excepciones.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/obj/Debug/net6.0/sesion_17_excepciones.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/obj/Debug/net6.0/sesion_17_excepciones.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/obj/Debug/net6.0/sesion_17_excepciones.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/obj/Debug/net6.0/ref/sesion_17_excepciones.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/obj/Debug/net6.0/sesion_17_excepciones.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_17_excepciones/obj/Debug/net6.0/sesion_17_excepciones.genruntimeconfig.cache
