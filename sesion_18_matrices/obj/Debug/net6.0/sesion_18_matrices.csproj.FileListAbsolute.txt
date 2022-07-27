@@ -1,0 +1,15 @@
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/bin/Debug/net6.0/sesion_18_matrices
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/bin/Debug/net6.0/sesion_18_matrices.deps.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/bin/Debug/net6.0/sesion_18_matrices.runtimeconfig.json
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/bin/Debug/net6.0/sesion_18_matrices.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/bin/Debug/net6.0/ref/sesion_18_matrices.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/bin/Debug/net6.0/sesion_18_matrices.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/obj/Debug/net6.0/sesion_18_matrices.csproj.AssemblyReference.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/obj/Debug/net6.0/sesion_18_matrices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/obj/Debug/net6.0/sesion_18_matrices.AssemblyInfoInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/obj/Debug/net6.0/sesion_18_matrices.AssemblyInfo.cs
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/obj/Debug/net6.0/sesion_18_matrices.csproj.CoreCompileInputs.cache
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/obj/Debug/net6.0/sesion_18_matrices.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/obj/Debug/net6.0/ref/sesion_18_matrices.dll
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/obj/Debug/net6.0/sesion_18_matrices.pdb
+/Users/rocioortizalonso/desarrolloweb/OpenBootcamp/curso_csharp/sesion_18_matrices/obj/Debug/net6.0/sesion_18_matrices.genruntimeconfig.cache
