@@ -13,6 +13,7 @@ Bonus: escribe un método para presentar estos datos desde la estructura al hace
 
 Client cliente = new Client("Diego", 2342345, "calle", "email@email.com", true);
 Console.WriteLine(cliente);
+
 public struct Client
 {
   public Client(string name, int phone, string address, string email, bool newClient)
